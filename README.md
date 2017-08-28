@@ -1,0 +1,1 @@
+Creates a simple web listener and responds to HTTP GET requests with JSON in a RESTful manner. Run the script and browse to http://127.0.0.1:8080/processes or http://127.0.0.1:8080/services. Depends on powershell 3.0 for ConvertTo-Json. Check your execution policy if you have any issues running the script.
